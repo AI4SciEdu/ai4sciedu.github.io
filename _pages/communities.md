@@ -27,3 +27,4 @@ The community names are ordered by alphabatic order. The corresponding science s
 
 9. \[Phys\] [Physics for Machine Learning](https://physics4ml.github.io/)
 
+10. \[Chem\] [Quantum-Machine.org](http://quantum-machine.org/)
