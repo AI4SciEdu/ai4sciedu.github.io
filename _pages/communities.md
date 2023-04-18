@@ -19,7 +19,9 @@ The community names are ordered by alphabatic order. The corresponding science s
 
 5. \[General\] [Machine Learning for Science](https://ml4sci.lbl.gov/)
 
-6. \[General\] [Microsoft AI4Science Lab](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/)
+6. \[Phys\] [Machine Learning for Physical Sciences](https://ml4physicalsciences.github.io/)
 
-7. TBA
+7. \[General\] [Microsoft AI4Science Lab](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/)
+
+8. \[Phys\] [Physics for Machine Learning](https://physics4ml.github.io/)
 
