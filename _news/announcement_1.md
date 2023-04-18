@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-AI4Science Education Organization is found! Welcome!
+AI4Science Education Organization is found! Welcome! :sparkles: :smile:
