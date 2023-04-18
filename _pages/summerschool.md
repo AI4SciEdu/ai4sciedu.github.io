@@ -13,6 +13,7 @@ The community names are ordered by time order.
 - [2023 Summer Schools](#2023-summer-schools)
 
 ## 2023 Summer Schools
+------|--|---|----|--|-|-|----
 Name and Link|Location|Organiser|Dates (MM/DD)|Deadline|Fee|Aid (Travel Grants etc)| Notes
 [AI+Science Summer School](https://www.imsi.institute/activities/aiscience-summer-school-2023/)|Chicago, USA|DSI and IMSI at the University of Chicago|07/17 - 07/21|04/07|50$|Yes|
 [UCL Medical Image Computing Summer School (MedICSS)](https://www.ucl.ac.uk/medical-image-computing/ucl-medical-image-computing-summer-school-medicss)|London, United Kingdom|UCL Centre for Medical Image Computing (CMIC)|07/03 - 07/07|04/02|200GBP|Yes - waiver for lower income countries|
