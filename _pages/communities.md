@@ -2,7 +2,7 @@
 layout: page
 permalink: /communities/
 title: communities
-description: AI4Sci communities, the list is added constantly
+description: AI4Sci communities
 nav: true
 nav_order: 3
 ---

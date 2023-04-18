@@ -2,7 +2,7 @@
 layout: page
 permalink: /summerschool/
 title: summerschool
-description: AI4Sci summer schools, the list is added constantly
+description: AI4Sci summer schools
 nav: true
 nav_order: 4
 ---
