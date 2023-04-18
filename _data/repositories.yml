@@ -1,9 +1,9 @@
 github_users:
-  - torvalds
+  - sherrylixuecheng
   - alshedivat
 
 github_repos:
-  - alshedivat/al-folio
+  - sherrylixuecheng/GPTforHighSchoolStudents
   - twbs/bootstrap
   - jekyll/jekyll
   - jquery/jquery

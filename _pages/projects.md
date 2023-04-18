@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Research oppotunities suitable for undergraduate/high school students
+description: Research oppotunities and courses suitable for undergraduate/high school students
 nav: true
 nav_order: 2
 display_categories: [work, fun]
