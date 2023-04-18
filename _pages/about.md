@@ -4,9 +4,9 @@ title: about
 permalink: /
 subtitle: AI4Science Education organization, aimming to faciliate better eduation for AI4Sci 
 
-# profile:
-#   align: right
-#   image: prof_pic.jpg
+profile:
+  align: right
+  image: prof_pic.jpg
 #   image_circular: false # crops the image to make it circular
   # address: >
   #   <p>555 your office number</p>
