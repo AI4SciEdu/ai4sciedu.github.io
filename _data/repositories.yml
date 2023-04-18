@@ -1,12 +1,8 @@
-github_users:
-  - torvalds
-  - alshedivat
+# github_users:
+#   - sherrylixuecheng
+#   - susyustc
+
+Please contribute the related repo links here, better to be course-like, roadmaps or any other educational repos, instead of a research repo.
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - sherrylixuecheng/GPTforHighSchoolStudents
