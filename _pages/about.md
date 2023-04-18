@@ -19,7 +19,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-This is the home page for [AI4Science Education GitHub organization](https://github.com/AI4SciEdu). We are welcome any new members and contributors to join this organization! If you have interests, please send your github user name to [Dr. Sherry Lixue Cheng](https://sherrylixuecheng.github.io/) or contact via <a href = "mailto: sherrylixuecheng@google.com">Sherry's email</a>
+This is the home page for [AI4Science Education GitHub organization](https://github.com/AI4SciEdu). We are welcome any new members and contributors to join this organization! 
+
+The goal is to share study materials, learning experiences, & useful information to facilitate better education in AI4Sci & break the knowledge barrier in AI4Sci community, i.e., Science knowledge for Computer Scientists and CS knowledge for scientists.
+
+If you have interests, please send your github user name to [Dr. Sherry Lixue Cheng](https://sherrylixuecheng.github.io/) or contact via <a href = "mailto: sherrylixuecheng@google.com">Sherry's email</a>
 
 
 {% comment %} Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
