@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /communities/
-title: Communities
-description: AI4Sci Coomunities 
+title: communities
+description: AI4Sci communities, the list is added constantly
 nav: true
 nav_order: 3
 ---
@@ -19,7 +19,7 @@ The community names are ordered by alphabatic order. The corresponding science s
 
 5. \[General\] [Machine Learning for Science](https://ml4sci.lbl.gov/)
 
-6. \[General\] [Microsoft AI4Science Lab] (https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/), 
+6. \[General\] [Microsoft AI4Science Lab](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/)
 
 7. TBA
 
