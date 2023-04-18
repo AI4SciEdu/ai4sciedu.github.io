@@ -2,7 +2,7 @@ github_users:
   - sherrylixuecheng
 
 github_repos:
+  - argonne-lcf/AI4ScienceTutorial
+  - deepmodeling/AI4Science101
   - sherrylixuecheng/GPTforHighSchoolStudents
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jpswalsh/academicons
+  - sherrylixuecheng/roadmap-ai4chem
