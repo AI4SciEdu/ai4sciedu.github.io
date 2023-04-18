@@ -2,7 +2,11 @@
 layout: page
 title: projects
 permalink: /projects/
+<<<<<<< HEAD
 description: Research oppotunities and online courses suitable for undergraduate/high school students.
+=======
+description: A growing collection of your cool projects.
+>>>>>>> parent of e76864c (add)
 nav: true
 nav_order: 2
 display_categories: [work, fun]
