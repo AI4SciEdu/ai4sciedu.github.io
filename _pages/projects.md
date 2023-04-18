@@ -5,7 +5,7 @@ permalink: /projects/
 description: Research oppotunities and courses suitable for undergraduate/high school students
 nav: true
 nav_order: 1
-display_categories: [work, fun]
+display_categories: [AI, Education, Science]
 horizontal: false
 ---
 Please feel free to contribute! We hope this page could provide a platform for AI4Sci researchers to outreach and collaborate.
