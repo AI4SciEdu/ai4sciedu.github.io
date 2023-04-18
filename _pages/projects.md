@@ -4,7 +4,7 @@ title: projects
 permalink: /projects/
 description: Research oppotunities and courses suitable for undergraduate/high school students
 nav: true
-nav_order: 2
+nav_order: 1
 display_categories: [work, fun]
 horizontal: false
 ---
