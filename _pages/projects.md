@@ -2,12 +2,13 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Research oppotunities suitable for undergraduate/high school students
 nav: true
 nav_order: 2
 display_categories: [work, fun]
 horizontal: false
 ---
+Please feel free to contribute! We hope this page could provide a platform for AI4Sci researchers to outreach and collaborate.
 
 <!-- pages/projects.md -->
 <div class="projects">
