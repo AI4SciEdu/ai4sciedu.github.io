@@ -1,12 +1,8 @@
 github_users:
   - sherrylixuecheng
-  - alshedivat
 
 github_repos:
   - sherrylixuecheng/GPTforHighSchoolStudents
   - twbs/bootstrap
   - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
   - jpswalsh/academicons
-  - mathjax/MathJax
