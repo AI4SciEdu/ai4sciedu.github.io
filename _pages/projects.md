@@ -2,12 +2,13 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Research oppotunities and online courses suitable for undergraduate/high school students.
+description: Research oppotunities \& online courses suitable for undergraduate/high school students
 nav: true
 nav_order: 2
 display_categories: [work, fun]
 horizontal: false
 ---
+Please feel free to contribute! We hope this page could provide a platform for AI4Sci researchers to outreach and collaborate.
 
 <!-- pages/projects.md -->
 <div class="projects">
