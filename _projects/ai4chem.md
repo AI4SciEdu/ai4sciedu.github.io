@@ -1,6 +1,6 @@
 ---
 layout: page
-title: {AI for Chemistry}
+title: AI for Chemistry
 description: 
 img: assets/img/chem.jpg
 importance: 1

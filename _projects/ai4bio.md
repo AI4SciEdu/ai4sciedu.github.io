@@ -1,6 +1,6 @@
 ---
 layout: page
-title: {AI for Biology}
+title: AI for Biology
 description: 
 img: assets/img/bio.jpg
 importance: 1
