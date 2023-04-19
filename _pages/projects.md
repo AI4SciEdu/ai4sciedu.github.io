@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Research oppotunities and courses suitable for undergraduate/high school students
+description: General research directions and detailed research oppotunities
 nav: true
 nav_order: 1
-display_categories: [AI, Education, Science]
+display_categories: [AI4Science, AI, Science]
 horizontal: false
 ---
 Please feel free to contribute! We hope this page could provide a platform for AI4Sci researchers to outreach and collaborate.
