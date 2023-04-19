@@ -23,7 +23,7 @@ This is the home page for [AI4Science Education GitHub organization](https://git
 
 The goal is to share study materials, learning experiences, & useful information to facilitate better education in AI4Sci & break the knowledge barrier in AI4Sci community, i.e., Science knowledge for Computer Scientists and CS knowledge for scientists.
 
-If you have interests, please send your github user name to [Dr. Sherry Lixue Cheng](https://sherrylixuecheng.github.io/) or contact via <a href = "mailto: sherrylixuecheng@google.com">Sherry's email</a>
+If you have interests, please join us at [Slack](https://ai4sciedu.slack.com) and GitHub (send github user name to [Dr. Sherry Lixue Cheng](https://sherrylixuecheng.github.io/) or contact via <a href = "mailto: sherrylixuecheng@google.com">Sherry's email</a>)
 
 
 {% comment %} Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
