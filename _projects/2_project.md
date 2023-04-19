@@ -4,7 +4,7 @@ title: project 2
 description: another without an image
 img:
 importance: 3
-category: Education
+category: Science
 ---
 
 Every project has a beautiful feature showcase page.
