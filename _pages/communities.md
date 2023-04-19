@@ -19,14 +19,16 @@ The community names are ordered by alphabatic order. The corresponding science s
 
 5. \[General\] [AI+Sci Initiative (UChicago)](https://datascience.uchicago.edu/research/ai-science/)
 
-6. \[Bio\] [ML Protein Engineering Seminar Series](https://www.ml4proteinengineering.com/)
+6. \[Climate\] [Centre for AI & Climate](https://www.c-ai-c.org/)
 
-7. \[General\] [Machine Learning for Science](https://ml4sci.lbl.gov/)
+7. \[Bio\] [ML Protein Engineering Seminar Series](https://www.ml4proteinengineering.com/)
 
-8. \[Phys\] [Machine Learning for Physical Sciences](https://ml4physicalsciences.github.io/)
+8. \[General\] [Machine Learning for Science](https://ml4sci.lbl.gov/)
 
-9. \[General\] [Microsoft AI4Science Lab](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/)
+9. \[Phys\] [Machine Learning for Physical Sciences](https://ml4physicalsciences.github.io/)
 
-10. \[Phys\] [Physics for Machine Learning](https://physics4ml.github.io/)
+10. \[General\] [Microsoft AI4Science Lab](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/)
 
-11. \[Chem\] [Quantum-Machine.org](http://quantum-machine.org/)
+11. \[Phys\] [Physics for Machine Learning](https://physics4ml.github.io/)
+
+12. \[Chem\] [Quantum-Machine.org](http://quantum-machine.org/)
