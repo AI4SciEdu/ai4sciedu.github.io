@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: AI4Science Education organization, aimming to faciliate better eduation for AI4Sci 
+subtitle: AI4Science Education organization, aiming to faciliate better eduation for AI4Sci 
 
 profile:
   align: right
