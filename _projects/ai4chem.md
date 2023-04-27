@@ -9,4 +9,4 @@ category: AI4Science
 
 General research topics in the AI for Chemistry field
 
-TBA 
+1. [Awesome-AI4Chem](https://github.com/sherrylixuecheng/awesome-ai4chem): Inspired by the "Awesome" branded repos! Summarize key and/or inspiring papers in the AI for chemistry field. New repo! Welcome contributors!
